@@ -106,7 +106,6 @@ B.Tech CSE (Cybersecurity)
 Academic Project – IFSO Oriented  
 
 ---
-📄 **Download Full Report:** [report/Android_Mobile_Forensic_Investigation_Report.pdf](./report/Android_Mobile_Forensic_Investigation_Report.pdf)
 
 ## ⭐ If you found this useful
 Feel free to ⭐ star the repository and explore more cybersecurity and digital forensics projects.
