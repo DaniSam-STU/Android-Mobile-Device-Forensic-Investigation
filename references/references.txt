@@ -1,0 +1,33 @@
+REFERENCES
+
+1. Information Technology Act, 2000 (India)
+   - Section 43: Unauthorized access
+   - Section 66C: Identity theft
+   - Section 66D: Cheating by impersonation
+
+2. Indian Penal Code (IPC)
+   - Section 419: Cheating by personation
+   - Section 420: Cheating and dishonestly inducing delivery of property
+
+3. Android Developer Documentation
+   - Android Debug Bridge (ADB)
+   - Android file system structure
+
+4. Autopsy Digital Forensics Tool
+   - Official Autopsy documentation
+   - Mobile forensic analysis features
+
+5. FTK Imager Documentation
+   - Evidence acquisition and hashing
+
+6. Digital Forensics and Cyber Crime Investigation
+   - Eoghan Casey, Academic Press
+
+7. Mobile Device Forensics
+   - Andrew Hoog, Elsevier
+
+8. Chain of Custody in Digital Forensics
+   - Standard forensic investigation models
+
+9. OWASP Mobile Security Project
+   - Mobile security risks and analysis
